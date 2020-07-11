@@ -14,6 +14,7 @@ import javax.servlet.*;
 import java.io.IOException;
 import java.util.Arrays;
 
+@SuppressWarnings("deprecation")
 @Configuration
 @ComponentScan
 @EnableAutoConfiguration
